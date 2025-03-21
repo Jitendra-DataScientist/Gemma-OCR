@@ -11,3 +11,6 @@
 **streamlit run streamlit_app.py  --server.port 8004 --server.address 0.0.0.0**
 
 (server.port and server.address flags aren't mandatory)
+- **credits:** https://github.com/patchy631/ai-engineering-hub/tree/main/gemma3-ocr
+
+
